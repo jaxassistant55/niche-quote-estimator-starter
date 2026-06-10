@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/niche-quote-estimator.html
 - Live free preview: https://jaxassistant55.github.io/niche-quote-estimator-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/niche-quote-estimator-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/quote-estimator-scope-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/7
 - Price: $150
