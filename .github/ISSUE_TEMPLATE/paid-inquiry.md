@@ -5,6 +5,11 @@ title: "Paid inquiry: niche quote estimator"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-niche-quote-estimator.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/niche-quote-estimator-starter/inquiry.html
+
 ## Buyer Request
 
 - Service or product niche:

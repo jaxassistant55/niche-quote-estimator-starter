@@ -5,6 +5,8 @@ Free public preview for a fixed-scope Niche Quote Estimator.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/niche-quote-estimator.html
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-niche-quote-estimator.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/niche-quote-estimator-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/niche-quote-estimator-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/niche-quote-estimator-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/quote-estimator-scope-builder.html
